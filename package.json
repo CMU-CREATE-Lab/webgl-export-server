@@ -1,0 +1,9 @@
+{
+  "name": "webgl-export-server",
+  "description": "Makes animated gifs from WebGL visualizations",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.3"
+  }
+}
